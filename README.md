@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 Live Project Links :-
-- [![TASK 1](https://img.shields.io/badge/Task%201-VCard%20Portfolio-blue?style=for-the-badge)](https://ganesh-three.vercel.app/)
+- [![TASK 1](https://img.shields.io/badge/Task%201-Portfolio%20Portfolio-blue?style=for-the-badge)](https://ganesh-three.vercel.app/)
 - [![TASK 2](https://img.shields.io/badge/Task%202-Landing%20Page-green?style=for-the-badge)](https://moviehub-demo.vercel.app/)
 - [![TASK 3](https://img.shields.io/badge/Task%203-Calculator-red?style=for-the-badge)](https://calculator-sand-eight-19.vercel.app/)
 
