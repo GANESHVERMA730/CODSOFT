@@ -17,9 +17,9 @@
 ---
 
 ## 🚀 Live Project Links :-
-- [![TASK 1]([https://img.shields.io/badge/Task%201-VCard%20Portfolio-blue?style=for-the-badge)](https://urr-kuldeep2.netlify.app/](https://ganesh-three.vercel.app/))
-- [![TASK 2]([https://img.shields.io/badge/Task%202-Landing%20Page-green?style=for-the-badge)](https://codsofttask2landingpage.netlify.app/](https://moviehub-demo.vercel.app/))
-- [![TASK 3]([https://img.shields.io/badge/Task%203-Calculator-red?style=for-the-badge)](https://codsofttask3calculator.netlify.app/](https://calculator-sand-eight-19.vercel.app/))
+- [![TASK 1](https://img.shields.io/badge/Task%201-VCard%20Portfolio-blue?style=for-the-badge)](https://ganesh-three.vercel.app/)
+- [![TASK 2](https://img.shields.io/badge/Task%202-Landing%20Page-green?style=for-the-badge)](https://moviehub-demo.vercel.app/)
+- [![TASK 3](https://img.shields.io/badge/Task%203-Calculator-red?style=for-the-badge)](https://calculator-sand-eight-19.vercel.app/)
 
 ---
 
