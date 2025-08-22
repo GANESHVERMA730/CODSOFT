@@ -1,6 +1,6 @@
 ## 💻 Internship Details:
 
-![BATCH](https://img.shields.io/badge/BATCH-AUGUST%202025%20(B45)-blue?style=for-the-badge)
+![BATCH](https://img.shields.io/badge/BATCH-AUGUST%202025%20(B44)-blue?style=for-the-badge)
 ![START DATE](https://img.shields.io/badge/START%20DATE-05%20AUGUST%202025-green?style=for-the-badge)
 ![END DATE](https://img.shields.io/badge/END%20DATE-05%20SEPTEMBER%202025-red?style=for-the-badge)
 
